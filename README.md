@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim 
-Sou uam mãe coruja apaixonada por tecnologia, leitura e desafios novos.  
+Sou uma mãe coruja apaixonada por tecnologia, leitura e desafios novos.  
 Estou sempre buscando evoluir meus conhecimentos e ampliar minha visão de mundo.  
 Atualmente, estou direcionando meus estudos para **análise de dados**, com interesse em transformar informações em insights relevantes e criar soluções inteligentes para problemas do dia a dia.  
 
